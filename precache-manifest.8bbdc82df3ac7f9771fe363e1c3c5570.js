@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "128b344fba814ee76505304b7848037a",
+    "revision": "fd61897903b59a75470e4339fb8c13b7",
     "url": "/gif-city/index.html"
   },
   {
