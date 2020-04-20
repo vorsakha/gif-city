@@ -24,4 +24,4 @@ yarn-error.log*
 
 .env
 
-/src/img/logo-resources
+/logo-resources
