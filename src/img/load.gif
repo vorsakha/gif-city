@@ -1,0 +1,132 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="FInd more at midgraph.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+        <meta property="fb:app_id" content="406655189415060">
+    <meta property="og:site_name" content="GIPHY">
+    <meta property="og:url" content="https://i.giphy.com/media/feN0YJbVs0fwA/giphy.gif">
+    <meta property="og:title" content="Design Loop GIF by MIDgraph - Find &amp; Share on GIPHY">
+    <meta property="og:description" content="FInd more at midgraph.com">
+
+    
+
+    
+    <meta property="og:type" content="video.other">
+    <meta property="og:image" content="https://i.giphy.com/media/feN0YJbVs0fwA/giphy.gif">
+    <meta property="og:image:type" content="image/gif">
+    <meta property="og:image:width" content="500">
+    <meta property="og:image:height" content="500">
+    
+    
+    <meta property="og:video" content="https://i.giphy.com/media/feN0YJbVs0fwA/giphy.mp4">
+    <meta property="og:video:secure_url" content="https://i.giphy.com/media/feN0YJbVs0fwA/giphy.mp4">
+    <meta property="og:video:type" content="video/mp4">
+    <meta property="og:video:width" content="500">
+    <meta property="og:video:height" content="500">
+    
+
+    <meta name="twitter:account_id" content="1020383864" />
+    <meta name="twitter:card" content="player">
+    <meta name="twitter:title" content="Design Loop GIF by MIDgraph - Find &amp; Share on GIPHY">
+    <meta name="twitter:creator" content="@MIDgraph">
+    <meta name="twitter:site" content="@giphy">
+    <meta name="twitter:description" content="FInd more at midgraph.com">
+    
+    <meta name="twitter:image:src" content="https://i.giphy.com/media/feN0YJbVs0fwA/giphy-facebook_s.jpg">
+    <meta name="twitter:image" content="https://i.giphy.com/media/feN0YJbVs0fwA/giphy-facebook_s.jpg">
+    
+    <meta name="twitter:domain" content="giphy.com">
+
+    
+    <meta name="twitter:player" content="https://giphy.com/embed/feN0YJbVs0fwA/twitter/iframe">
+    <meta name="twitter:player:width" content="435">
+    <meta name="twitter:player:height" content="435">
+    
+
+    
+    <meta name="rating" content="general">
+    <meta name="image:rating" content="g">
+    
+
+    <!-- /twitter seo -->
+
+    <meta name="description" content="FInd more at midgraph.com"/>
+    <meta name="author" content="GIPHY"/>
+    <meta name="keywords" content="loading, loop, c4d, artists on tumblr, design, GIF, Animated GIF">
+    <meta name="pinterest" content="nohover">
+
+    
+    <link rel="alternate" type="application/json+oembed" href="https://giphy.com/services/oembed?url=https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" title="Design Loop GIF by MIDgraph - Find &amp; Share on GIPHY oEmbed Lookup" />
+    
+    <title>Design Loop GIF by MIDgraph - Find &amp; Share on GIPHY</title>
+  </head>
+  <body style="background-color:#121212">
+    <article class="media">
+        
+    </article>
+    <!-- Google Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-38174542-34', 'auto');
+    
+    ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+    <!-- Quantcast Tag -->
+<script type="text/javascript">
+    var _qevents = _qevents || [];
+    __qc = undefined;
+    (function() {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        elem.id = "quantcast";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+    _qevents.push({
+        qacct:"p-PdxaRL3tyJt0S"
+    });
+</script>
+
+<noscript>
+    <div style="display:none;">
+        <img src="//pixel.quantserve.com/pixel/p-PdxaRL3tyJt0S.gif" border="0" height="1" width="1" alt="Quantcast"/>
+    </div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"wlIjj1aAkN00Ei", domain:"giphy.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=wlIjj1aAkN00Ei" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+    <script src="/static/dist/runtime.e994af8c.bundle.js"></script>
+    <script src="/static/dist/mediaLanding.5bd19f53.bundle.js"></script>
+    <script>
+        var Giphy = Giphy || {};
+        if (Giphy.renderMediaLanding) {
+            Giphy.renderMediaLanding(document.querySelector('.media'), {
+                gif: {"id": "feN0YJbVs0fwA", "index_id": 644603, "search_id": "3758aa7ae44348a5ab462d88b1032bbe", "username": "midgraph", "slug": "artists-on-tumblr-design-feN0YJbVs0fwA", "tags_string": "", "featured_tags_string": "", "source_body": "", "source_caption": "LOADING", "source_domain": "http://midgraph.com", "source_tld": "midgraph.com", "source_post_url": "https://midgraph.com/post/88614809878/loading", "source_image_url": "https://37.media.tumblr.com/f3c9c27da8351da3aee0452bffd7f6eb/tumblr_n71kcn1ch11ttqncoo1_500.gif", "source_content_url": "", "bitly_url": "https://gph.is/1ojdB4p", "rating": "g", "edit_status": "", "is_preserve_size": false, "is_featured": false, "is_hidden": false, "is_removed": false, "is_community": false, "is_caption": false, "is_anonymous": false, "is_realtime": false, "is_sticker": false, "is_indexable": false, "is_takedown": false, "is_nsfw": false, "import_datetime": "2014-06-12T23:31:23+00:00", "create_datetime": "2014-06-13T00:35:27+00:00", "update_datetime": "2020-01-18T00:42:07+00:00", "trending_datetime": "1970-01-01T00:00:00+00:00", "search_datetime": "2015-02-10T05:21:37+00:00", "type": "gif", "url": "https://giphy.com/gifs/artists-on-tumblr-design-feN0YJbVs0fwA", "embed_url": "https://giphy.com/embed/feN0YJbVs0fwA", "images": {"looping": {"mp4": "https://media.giphy.com/media/feN0YJbVs0fwA/giphy-loop.mp4"}, "fixed_height": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/200.gif", "width": 200, "height": 200, "size": 84339, "mp4": "https://media.giphy.com/media/feN0YJbVs0fwA/200.mp4", "webp": "https://media.giphy.com/media/feN0YJbVs0fwA/200.webp", "webp_size": 35652}, "fixed_height_still": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/200_s.gif", "width": 200, "height": 200}, "fixed_height_downsampled": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/200_d.gif", "width": 200, "height": 200, "size": 10913, "webp": "https://media.giphy.com/media/feN0YJbVs0fwA/200_d.webp", "webp_size": 10014}, "fixed_width": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/200w.gif", "width": 200, "height": 200, "size": 84339, "mp4": "https://media.giphy.com/media/feN0YJbVs0fwA/200w.mp4", "mp4_size": 41816, "webp": "https://media.giphy.com/media/feN0YJbVs0fwA/200w.webp", "webp_size": 35652}, "fixed_width_still": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/200w_s.gif", "width": 200, "height": 200}, "fixed_width_downsampled": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/200w_d.gif", "width": 200, "height": 200, "size": 10913, "webp": "https://media.giphy.com/media/feN0YJbVs0fwA/200w_d.webp", "webp_size": 10014}, "fixed_height_small": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/100.gif", "width": 100, "height": 100, "size": 28047, "mp4": "https://media.giphy.com/media/feN0YJbVs0fwA/100.mp4", "mp4_size": 13363, "webp": "https://media.giphy.com/media/feN0YJbVs0fwA/100.webp", "webp_size": 11872}, "fixed_height_small_still": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/100_s.gif", "width": 100, "height": 100}, "fixed_width_small": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/100w.gif", "width": 100, "height": 100, "size": 28047, "mp4": "https://media.giphy.com/media/feN0YJbVs0fwA/100w.mp4", "mp4_size": 13363, "webp": "https://media.giphy.com/media/feN0YJbVs0fwA/100w.webp", "webp_size": 11872}, "fixed_width_small_still": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/100w_s.gif", "width": 100, "height": 100}, "downsized": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/200w_d.gif", "width": 200, "height": 200, "size": 267081}, "downsized_still": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/giphy_s.gif", "width": 500, "height": 500}, "downsized_large": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif", "width": 500, "height": 500, "size": 267081}, "downsized_medium": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif", "width": 500, "height": 500, "size": 267081}, "original": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif", "width": 500, "height": 500, "size": 267081, "frames": 57, "mp4": "https://media.giphy.com/media/feN0YJbVs0fwA/giphy.mp4", "webp": "https://media.giphy.com/media/feN0YJbVs0fwA/giphy.webp"}, "original_still": {"url": "https://media.giphy.com/media/feN0YJbVs0fwA/giphy_s.gif", "width": 500, "height": 500}, "source": {"url": "https://media2.giphy.com/media/feN0YJbVs0fwA/source.gif", "width": "500", "height": "500", "size": "277212", "frames": null}}, "get_absolute_url": "/gifs/artists-on-tumblr-design-feN0YJbVs0fwA", "title": "MIDgraph GIF", "tags": ["loading", "loop", "c4d", "artists on tumblr", "design"], "featured_tags": [], "user": {"id": 22982, "profile_url": "https://giphy.com/midgraph", "profile_path": "/midgraph", "display_name": "MIDgraph", "username": "midgraph", "name": "MIDgraph", "avatar_url": "https://media.giphy.com/avatars/midgraph/N78jRW8GD4Ot.png", "banner_url": "https://media2.giphy.com/headers/midgraph/GokjMXK0r7S0.png", "is_public": true, "is_verified": true, "attribution_display_name": "MIDgraph", "suppress_chrome": false, "website_url": "http://midgraph.com/", "website_display_url": "midgraph.com", "description": "Maxwell Ingham's foray into Motion Graphics", "facebook_url": "https://www.facebook.com/midgraph", "twitter": "@MIDgraph", "twitter_url": "https://twitter.com/MIDgraph", "instagram_url": "https://instagram.com/midgraph_art", "tumblr_url": "http://midgraph.tumblr.com/"}},
+                giphyUrl: 'https://giphy.com/',
+                renditionFilename: '200_d.gif',
+                trackingQueryString: 'utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term='
+            });
+        }
+    </script>
+  </body>
+</html>

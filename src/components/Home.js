@@ -11,7 +11,6 @@ export default function Home() {
 
 
     useEffect(() => {
-        console.log(api_key)
         setup()
     }, [])
 

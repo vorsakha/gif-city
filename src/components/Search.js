@@ -18,7 +18,7 @@ export default function Search() {
         try {
             setLoading(true)
             const response = await fetch(
-                `https://api.giphy.com/v1/gifs/search?api_key=${api_key}&q=${query}&limit=80&offset=0&rating=G&lang=en`
+                `https://api.giphy.com/v1/gifs/search?api_key=${api_key}&q=${query}&limit=200&offset=0&rating=G&lang=en`
             )
             const json = await response.json()
             results = await json.data.map(res => res.images.fixed_height_downsampled.url)
@@ -43,6 +43,7 @@ export default function Search() {
     const handleSubmit = (e) => {
         e.preventDefault()
         getUrl()
+        setLoad(8)
     }
 
     const handleLoad = () => {
