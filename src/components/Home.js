@@ -1,5 +1,10 @@
 import React, { useEffect, useState } from "react"
+
+import loadingGif from "../img/load.gif"
+
+
 require('dotenv').config()
+
 
 export default function Home() {
     const [trending, setTrend] = useState([])
@@ -53,7 +58,7 @@ export default function Home() {
             </div>
             <div className="col-12 mx-auto text-center mb-5">
                 {
-                    loading ? <h3>loading...</h3> : slicedArr.map((data, key) => <img className="trend m-2" key={key} alt="" src={data}></img>)
+                    loading ? <img className="loading" src={loadingGif} alt="loading..." /> : slicedArr.map((data, key) => <img className="trend m-2" key={key} alt="" src={data}></img>)
                 }
             </div>
             {

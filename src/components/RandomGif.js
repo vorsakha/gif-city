@@ -1,4 +1,7 @@
 import React, { useState, useEffect } from "react"
+
+import loadingGif from "../img/load.gif"
+
 require('dotenv').config()
 
 function useGiphy(query) {
@@ -57,7 +60,7 @@ export default function AsyncHooks() {
             </form>
             <br />
             {loading ? (
-                    <p className="col-md-12 text-align-center">Loading gif...</p>
+                    <img className="loading" src={loadingGif} alt="loading..." /> 
                 ) : (
                     <div className="col-md-12 column mx-auto mb-5">
                         <img className="random-gif" alt="" src={results} />

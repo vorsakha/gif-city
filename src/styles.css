@@ -87,6 +87,10 @@ input {
     margin: 0 5px
 }
 
+.loading {
+    width: 200px;
+}
+
 @media screen and (max-width: 1250px) {
     .home-container {
         max-width: 600px;

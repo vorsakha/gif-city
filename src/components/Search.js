@@ -1,4 +1,7 @@
 import React, { useState, useEffect } from "react"
+
+import loadingGif from "../img/load.gif"
+
 require('dotenv').config()
 
 
@@ -66,7 +69,7 @@ export default function Search() {
             </form><br />
             <div className="col-12 mx-auto mb-5">
                 {
-                 loading ? <p>loading...</p> : slicedArr.map((data, key) => <img className="trend m-2" key={key} alt="" src={data}></img>)
+                 loading ? <img className="loading" src={loadingGif} alt="loading..." /> : slicedArr.map((data, key) => <img className="trend m-2" key={key} alt="" src={data}></img>)
                 }
                 {
                     getError && <p className="text-center">No gifs found!</p>
