@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5dcec67a.chunk.css",
-    "main.js": "/static/js/main.f71f3fb0.chunk.js",
-    "main.js.map": "/static/js/main.f71f3fb0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f8bff033.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f8bff033.js.map",
-    "static/css/2.89f067aa.chunk.css": "/static/css/2.89f067aa.chunk.css",
-    "static/js/2.a90561f6.chunk.js": "/static/js/2.a90561f6.chunk.js",
-    "static/js/2.a90561f6.chunk.js.map": "/static/js/2.a90561f6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.08e49cbbd1de4fde2811df01782acf44.js": "/precache-manifest.08e49cbbd1de4fde2811df01782acf44.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.89f067aa.chunk.css.map": "/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.5dcec67a.chunk.css.map": "/static/css/main.5dcec67a.chunk.css.map",
-    "static/js/2.a90561f6.chunk.js.LICENSE.txt": "/static/js/2.a90561f6.chunk.js.LICENSE.txt"
+    "main.css": "/gif-city/static/css/main.5dcec67a.chunk.css",
+    "main.js": "/gif-city/static/js/main.0138f7c3.chunk.js",
+    "main.js.map": "/gif-city/static/js/main.0138f7c3.chunk.js.map",
+    "runtime-main.js": "/gif-city/static/js/runtime-main.6bfe9e35.js",
+    "runtime-main.js.map": "/gif-city/static/js/runtime-main.6bfe9e35.js.map",
+    "static/css/2.89f067aa.chunk.css": "/gif-city/static/css/2.89f067aa.chunk.css",
+    "static/js/2.1ec29de2.chunk.js": "/gif-city/static/js/2.1ec29de2.chunk.js",
+    "static/js/2.1ec29de2.chunk.js.map": "/gif-city/static/js/2.1ec29de2.chunk.js.map",
+    "index.html": "/gif-city/index.html",
+    "precache-manifest.9a5d848518dd6ed55fbed08ef1d8f5ff.js": "/gif-city/precache-manifest.9a5d848518dd6ed55fbed08ef1d8f5ff.js",
+    "service-worker.js": "/gif-city/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/gif-city/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.5dcec67a.chunk.css.map": "/gif-city/static/css/main.5dcec67a.chunk.css.map",
+    "static/js/2.1ec29de2.chunk.js.LICENSE.txt": "/gif-city/static/js/2.1ec29de2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8bff033.js",
+    "static/js/runtime-main.6bfe9e35.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.a90561f6.chunk.js",
+    "static/js/2.1ec29de2.chunk.js",
     "static/css/main.5dcec67a.chunk.css",
-    "static/js/main.f71f3fb0.chunk.js"
+    "static/js/main.0138f7c3.chunk.js"
   ]
 }
