@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a93892845c6c5188fbea4326a3489aca",
+    "revision": "128b344fba814ee76505304b7848037a",
     "url": "/gif-city/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gif-city/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "0887928fd8a760eb559b",
-    "url": "/gif-city/static/css/main.e3f9dd96.chunk.css"
+    "revision": "cd9356358247b233230c",
+    "url": "/gif-city/static/css/main.c5c5291f.chunk.css"
   },
   {
     "revision": "f8b0426ddeaa73dcfe33",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gif-city/static/js/2.0500a791.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0887928fd8a760eb559b",
+    "revision": "cd9356358247b233230c",
     "url": "/gif-city/static/js/main.9c670619.chunk.js"
   },
   {
