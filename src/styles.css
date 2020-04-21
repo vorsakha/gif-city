@@ -121,4 +121,8 @@ input {
         width: 100%;
     }
 
+    .loading {
+        width: 120px;
+    }
+
 }
