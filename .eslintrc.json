@@ -20,5 +20,6 @@
         "react"
     ],
     "rules": {
+        "no-console": "error"
     }
 }
