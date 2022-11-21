@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
-import UseGiphyMock from './useGiphyMock';
+import UseGiphyMock from './UseGiphyMock';
 
 let mockedUseGiphyResult = [['sample.result'], false, false];
 
