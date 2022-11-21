@@ -1,7 +1,7 @@
 import React from 'react';
-import Loading from '../components/Loading';
-import useGiphy from '../hooks/useGiphy';
-import usePagination from '../hooks/usePagination';
+import Loading from '../../components/Loading';
+import useGiphy from '../../hooks/useGiphy';
+import usePagination from '../../hooks/usePagination';
 
 export default function Home() {
   const [results, loading] = useGiphy();

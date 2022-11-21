@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { useEffect, useMemo, useState } from 'react';
-import { API_KEY, API_URL, MODES } from '../constants';
+import { API_KEY, API_URL, MODES } from '../../constants';
 
 const useGiphy = (props) => {
   const [results, setResults] = useState();

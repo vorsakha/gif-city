@@ -2,9 +2,9 @@ import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 
 import Navbar from './components/Navbar';
-import RandomGif from './screens/RandomGif';
-import Search from './screens/Search';
-import Home from './screens/Home';
+import RandomGif from './pages/RandomGif';
+import Search from './pages/Search';
+import Home from './pages/Home';
 
 export default function App() {
   return (

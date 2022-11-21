@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Loading from '../components/Loading';
-import { MODES } from '../constants';
-import useGiphy from '../hooks/useGiphy';
-import usePagination from '../hooks/usePagination';
+import Loading from '../../components/Loading';
+import { MODES } from '../../constants';
+import useGiphy from '../../hooks/useGiphy';
+import usePagination from '../../hooks/usePagination';
 
 export default function Search() {
   const [search, setSearch] = useState('');

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Loading from '../components/Loading';
-import { MODES } from '../constants';
-import useGiphy from '../hooks/useGiphy';
+import Loading from '../../components/Loading';
+import { MODES } from '../../constants';
+import useGiphy from '../../hooks/useGiphy';
 
 export default function AsyncHooks() {
   const [search, setSearch] = useState('');
